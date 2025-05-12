@@ -142,4 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Link: [https://github.com/your-username/my_ecommerce_project](https://github.com/abye12345/my_ecommerce_project)
+Project Link: [https://github.com/abye12345/my_ecommerce_project](https://github.com/abye12345/my_ecommerce_project)
