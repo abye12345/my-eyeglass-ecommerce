@@ -46,7 +46,7 @@ A modern, responsive e-commerce website built with React and Tailwind CSS, speci
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/e-commerce-eyewear.git
+   git clone https://github.com/abye12345/e-commerce-eyewear.git
    ```
 
 2. Navigate to the project directory:
@@ -92,18 +92,6 @@ A modern, responsive e-commerce website built with React and Tailwind CSS, speci
 ### Home Page
 
 ![Home Page](https://i.imgur.com/example1.png)
-
-### Product Catalog
-
-![Product Catalog](https://i.imgur.com/example2.png)
-
-### Shopping Cart
-
-![Shopping Cart](https://i.imgur.com/example3.png)
-
-### Checkout
-
-![Checkout](https://i.imgur.com/example4.png)
 
 ## 🏗️ Project Structure
 
@@ -154,5 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/e-commerce-eyewear](https://github.com/yourusername/e-commerce-eyewear)
+Project Link: [https://github.com/abye12345/e-commerce-eyewear](https://github.com/abye12345/e-commerce-eyewear)
