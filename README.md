@@ -143,3 +143,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 Project Link: [https://github.com/abye12345/my_ecommerce_project](https://github.com/abye12345/my_ecommerce_project)
+
+Local Development Server: [http://localhost:5173/](http://localhost:5173/)
