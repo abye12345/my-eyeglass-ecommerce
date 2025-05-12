@@ -142,4 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Link: [https://github.com/abye12345/e-commerce-eyewear](https://github.com/abye12345/e-commerce-eyewear)
+Project Link: [https://github.com/your-username/my_ecommerce_project](https://github.com/your-username/my_ecommerce_project)
