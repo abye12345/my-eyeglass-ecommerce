@@ -2,8 +2,6 @@
 
 A modern, responsive e-commerce website built with React and Tailwind CSS, specializing in premium eyewear products.
 
-![E-commerce Store Preview](https://i.imgur.com/example.png)
-
 ## 🚀 Features
 
 - **Modern UI/UX Design**
@@ -87,29 +85,6 @@ A modern, responsive e-commerce website built with React and Tailwind CSS, speci
    - Select payment method
    - Complete purchase
 
-## 📱 Screenshots
-
-### Home Page
-
-![Home Page](https://i.imgur.com/example1.png)
-
-## 🏗️ Project Structure
-
-```
-my_ecommerce_project/
-├── src/
-│   ├── Menubar/
-│   │   ├── Cart.jsx
-│   │   ├── Layout.jsx
-│   │   └── [Product Pages]
-│   ├── components/
-│   ├── assets/
-│   └── App.jsx
-├── public/
-├── package.json
-└── README.md
-```
-
 ## 🔧 Configuration
 
 The project uses several configuration files:
@@ -117,28 +92,6 @@ The project uses several configuration files:
 - `tailwind.config.js` - Tailwind CSS configuration
 - `vite.config.js` - Vite build tool configuration
 - `eslint.config.js` - ESLint rules and settings
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- React.js community
-- Tailwind CSS team
-- All contributors who have helped shape this project
 
 ## 📞 Contact
 
