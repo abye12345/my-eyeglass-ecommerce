@@ -95,4 +95,9 @@ The project uses several configuration files:
 
 ## 📞 Contact
 
-Project Link: [https://abye12345.github.io/my-eyeglass-ecommerce/](https://github.com/abye12345/my_ecommerce_project)
+Project Link:
+https://abye12345.github.io/my-eyeglass-ecommerce/
+
+## 🌐 Live Demo
+
+[View the Live Store](https://abye12345.github.io/my-eyeglass-ecommerce/)
