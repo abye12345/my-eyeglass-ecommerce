@@ -28,7 +28,7 @@ const App = () => {
       <div className=" bg-amber-400 p-2 text-center text-sm md:text-base ">
         FREE SHIPPING ON ORDERS OVER $75
       </div>
-      <BrowserRouter>
+      <BrowserRouter basename="/my-eyeglass-ecommerce">
         <Routes>
           <Route path="/" element={<Layout />}>
             <Route index element={<Dazi />} />
