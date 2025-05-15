@@ -95,6 +95,4 @@ The project uses several configuration files:
 
 ## 📞 Contact
 
-Project Link: [https://github.com/abye12345/my_ecommerce_project](https://github.com/abye12345/my_ecommerce_project)
-
-Local Development Server: [http://localhost:5173/](http://localhost:5173/)
+Project Link: [https://abye12345.github.io/my-eyeglass-ecommerce/](https://github.com/abye12345/my_ecommerce_project)
