@@ -95,5 +95,5 @@ The project uses several configuration files:
 
 ## 📞 Contact
 
-Project Link:
+Project Link
 https://abye12345.github.io/my-eyeglass-ecommerce/
