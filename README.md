@@ -8,7 +8,6 @@ A modern, responsive e-commerce website built with React and Tailwind CSS, speci
 
   - Clean and intuitive interface
   - Responsive design for all devices
-  - Smooth animations and transitions
 
 - **Product Catalog**
 
