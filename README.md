@@ -7,7 +7,7 @@ A modern, responsive e-commerce website built with React and Tailwind CSS, speci
 - **Modern UI/UX Design**
 
   - Clean and intuitive interface
-  - Responsive design for all devices
+  - Responsive design for all devicess
 
 - **Product Catalog**
 
